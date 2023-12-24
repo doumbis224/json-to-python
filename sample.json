@@ -1,0 +1,14 @@
+{
+    "Person": {
+        "methods": {
+            "name": "str",
+            "age": "int"
+        },
+        "parent": "Animal",
+        "modules": [
+            "json",
+            "typing",
+            "hashlib"
+        ]
+    }
+}
